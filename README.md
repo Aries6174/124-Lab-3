@@ -1,2 +1,2 @@
-# 124-Lab-3
-Lab Activity 3 in 124
+I am editing the README file. Adding some more details about the project
+description.
